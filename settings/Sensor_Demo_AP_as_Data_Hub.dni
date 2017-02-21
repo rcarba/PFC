@@ -1,0 +1,76 @@
+[DebugChecksum]
+Checksum=1746474507
+[State Storage]
+Control Register=38230
+[Sequencer]
+Control Register=38230
+NextState0=38230
+NextState1=38230
+[Action Register]
+Break=0
+State Storage=1
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$\Applications\main_ED.c}.387.7@1" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "{$PROJ_DIR$\Applications\main_ED.c}.280.7@1" 0 0 0 0 "" 0 ""
+Count=2
+[FET]
+Clock mode=38
+Extended Clock mode=-1
+Secure Password=
+Extended Clock Control Enable=1
+Advanced Extended Clock Control=0
+Emulation mode=0
+Free running=0
+Shutting Down=3
+[Memory Dump]
+Start address=
+Lenghth=
+Address info=0
+Format=0
+Dump registers=0
+PC=0
+SP=0
+SR=0
+all registers=0
+File name=
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Aliases]
+A0=_ "C:\Users\Raúl\Desktop\Projecte\Provant - descobrint com s'envia la info - copia\eZ430-RF2500 Wireless Sensor Monitor\Embedded\IAR\Applications\main_ED.c" ""
+A1=_ "C:\Users\Raúl\Documents\Projecte\slac139g (4) - copia\eZ430-RF2500 Wireless Sensor Monitor\Embedded\IAR\Applications\main_ED.c" ""
+A2=_ "C:\Users\admin piezos\Downloads\slac139g (4)\eZ430-RF2500 Wireless Sensor Monitor\Embedded\IAR\Applications\main_AP.c" ""
+A3=_ "C:\Users\admin piezos\Downloads\slac139g (4)\eZ430-RF2500 Wireless Sensor Monitor\Embedded\IAR\Components\simpliciti\nwk\nwk.c" ""
+A4=_ "C:\Users\admin piezos\Downloads\slac139g (4)\eZ430-RF2500 Wireless Sensor Monitor\Embedded\IAR\Components\simpliciti\nwk\nwk_QMgmt.c" ""
+A5=_ "C:\Users\admin piezos\Downloads\slac139g (4)\eZ430-RF2500 Wireless Sensor Monitor\Embedded\IAR\Components\simpliciti\nwk\nwk_api.c" ""
+A6=_ "C:\Users\admin piezos\Downloads\slac139g (4)\eZ430-RF2500 Wireless Sensor Monitor\Embedded\IAR\Components\simpliciti\nwk\nwk_frame.c" ""
+Count=7
+SuppressDialog=1
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=1006773218
+Graph=0
+Symbiont=0
